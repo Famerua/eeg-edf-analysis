@@ -1,0 +1,10 @@
+file_name,n_epochs,good_epochs,bad_epochs,removed_epoch_indices,original_duration_sec,clean_duration_sec,saved_file
+1 open eyes.edf,6,4,2,"[0, 3]",60.0,40.0,cleaned_data/1 open eyes_clean.edf
+2 closed eyes.edf,6,5,1,[5],60.0,50.0,cleaned_data/2 closed eyes_clean.edf
+3 2026.01.24-16.16.21.085.edf,12,10,2,"[0, 8]",120.0,100.0,cleaned_data/3 2026.01.24-16.16.21.085_clean.edf
+4 2026.01.24-16.18.47.499.edf,12,10,2,"[5, 10]",120.0,100.0,cleaned_data/4 2026.01.24-16.18.47.499_clean.edf
+5 2026.01.24-16.38.37.757.edf,12,7,5,"[0, 5, 9, 10, 11]",120.0,70.0,cleaned_data/5 2026.01.24-16.38.37.757_clean.edf
+6 2026.01.24-16.41.01.794.edf,18,8,10,"[0, 1, 2, 3, 4, 5, 6, 10, 11, 15]",180.0,80.0,cleaned_data/6 2026.01.24-16.41.01.794_clean.edf
+7 2026.01.24-16.53.06.041.edf,1,1,0,[],10.0,10.0,cleaned_data/7 2026.01.24-16.53.06.041_clean.edf
+8 2026.01.24-17.03.42.427.edf,12,10,2,"[7, 11]",120.0,100.0,cleaned_data/8 2026.01.24-17.03.42.427_clean.edf
+9 2026.01.24-17.05.59.615.edf,46,46,0,[],460.0,460.0,cleaned_data/9 2026.01.24-17.05.59.615_clean.edf

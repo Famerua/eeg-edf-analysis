@@ -1,0 +1,123 @@
+[
+  {
+    "file_name": "1 open eyes.edf",
+    "n_epochs": 6,
+    "good_epochs": 4,
+    "bad_epochs": 2,
+    "removed_epoch_indices": [
+      0,
+      3
+    ],
+    "original_duration_sec": 60.0,
+    "clean_duration_sec": 40.0,
+    "saved_file": "cleaned_data/1 open eyes_clean.edf"
+  },
+  {
+    "file_name": "2 closed eyes.edf",
+    "n_epochs": 6,
+    "good_epochs": 5,
+    "bad_epochs": 1,
+    "removed_epoch_indices": [
+      5
+    ],
+    "original_duration_sec": 60.0,
+    "clean_duration_sec": 50.0,
+    "saved_file": "cleaned_data/2 closed eyes_clean.edf"
+  },
+  {
+    "file_name": "3 2026.01.24-16.16.21.085.edf",
+    "n_epochs": 12,
+    "good_epochs": 10,
+    "bad_epochs": 2,
+    "removed_epoch_indices": [
+      0,
+      8
+    ],
+    "original_duration_sec": 120.0,
+    "clean_duration_sec": 100.0,
+    "saved_file": "cleaned_data/3 2026.01.24-16.16.21.085_clean.edf"
+  },
+  {
+    "file_name": "4 2026.01.24-16.18.47.499.edf",
+    "n_epochs": 12,
+    "good_epochs": 10,
+    "bad_epochs": 2,
+    "removed_epoch_indices": [
+      5,
+      10
+    ],
+    "original_duration_sec": 120.0,
+    "clean_duration_sec": 100.0,
+    "saved_file": "cleaned_data/4 2026.01.24-16.18.47.499_clean.edf"
+  },
+  {
+    "file_name": "5 2026.01.24-16.38.37.757.edf",
+    "n_epochs": 12,
+    "good_epochs": 7,
+    "bad_epochs": 5,
+    "removed_epoch_indices": [
+      0,
+      5,
+      9,
+      10,
+      11
+    ],
+    "original_duration_sec": 120.0,
+    "clean_duration_sec": 70.0,
+    "saved_file": "cleaned_data/5 2026.01.24-16.38.37.757_clean.edf"
+  },
+  {
+    "file_name": "6 2026.01.24-16.41.01.794.edf",
+    "n_epochs": 18,
+    "good_epochs": 8,
+    "bad_epochs": 10,
+    "removed_epoch_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11,
+      15
+    ],
+    "original_duration_sec": 180.0,
+    "clean_duration_sec": 80.0,
+    "saved_file": "cleaned_data/6 2026.01.24-16.41.01.794_clean.edf"
+  },
+  {
+    "file_name": "7 2026.01.24-16.53.06.041.edf",
+    "n_epochs": 1,
+    "good_epochs": 1,
+    "bad_epochs": 0,
+    "removed_epoch_indices": [],
+    "original_duration_sec": 10.0,
+    "clean_duration_sec": 10.0,
+    "saved_file": "cleaned_data/7 2026.01.24-16.53.06.041_clean.edf"
+  },
+  {
+    "file_name": "8 2026.01.24-17.03.42.427.edf",
+    "n_epochs": 12,
+    "good_epochs": 10,
+    "bad_epochs": 2,
+    "removed_epoch_indices": [
+      7,
+      11
+    ],
+    "original_duration_sec": 120.0,
+    "clean_duration_sec": 100.0,
+    "saved_file": "cleaned_data/8 2026.01.24-17.03.42.427_clean.edf"
+  },
+  {
+    "file_name": "9 2026.01.24-17.05.59.615.edf",
+    "n_epochs": 46,
+    "good_epochs": 46,
+    "bad_epochs": 0,
+    "removed_epoch_indices": [],
+    "original_duration_sec": 460.0,
+    "clean_duration_sec": 460.0,
+    "saved_file": "cleaned_data/9 2026.01.24-17.05.59.615_clean.edf"
+  }
+]
