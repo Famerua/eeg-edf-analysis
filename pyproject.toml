@@ -6,8 +6,10 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "edfio>=0.4.13",
+    "ipywidgets>=8.1.8",
     "matplotlib>=3.10.8",
     "mne>=1.11.0",
+    "mne-connectivity>=0.7.0",
     "mnelab>=1.4.1",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
