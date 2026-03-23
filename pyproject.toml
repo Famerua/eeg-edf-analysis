@@ -1,0 +1,14 @@
+[project]
+name = "taubay"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "mne>=1.11.0",
+    "mnelab>=1.4.1",
+    "numpy>=2.4.3",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+]
